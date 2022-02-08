@@ -9,8 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -20,9 +18,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 <h3>Desktop</h3>
-![](screenshot/desktop-design.png)
+<img src="screenshot/desktop-design.png" width="45%" height="60%"/>
 <h3>Mobile</h3>
-![](screenshot/mobile-design.png)
+<img src="screenshot/mobile-design.png" width="45%" height="60%"/>
 
 ### Links
 
@@ -46,4 +44,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@azenetesc](https://www.frontendmentor.io/profile/azenetesc)
-# qr-code-component
