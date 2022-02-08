@@ -1,0 +1,24 @@
+.card {
+  background-color: var(--clr-white);
+  width: 20rem;
+  padding: 1rem 1rem 1.5rem;
+  border-radius: 20px;
+  box-shadow: 3px 10px 20px rgba(0, 0, 0, 0.103);
+  .card__img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  .card__body {
+    margin: 1.1rem;
+    .card__title {
+      font-weight: var(--fw-bold);
+      color: var(--dark-blue);
+      font-size: 1.38rem;
+    }
+    .card__text {
+      font-weight: var(--fw-normal);
+      color: var(--grayish-blue);
+      margin-top: 1rem;
+    }
+  }
+}
