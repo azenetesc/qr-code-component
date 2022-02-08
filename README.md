@@ -20,12 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <h3>Desktop</h3>
 <img src="screenshot/desktop-design.png" width="45%" height="60%"/>
 <h3>Mobile</h3>
-<img src="screenshot/mobile-design.png" width="45%" height="60%"/>
+<img src="screenshot/mobile-design.png" width="*40%" height="50%"/>
 
 ### Links
 
-- Solution URL: [FrontEnd Mentor: My Solution](https://your-solution-url.com)
-- Live Site URL: [GitHub Page: QR Card Component](https://your-live-site-url.com)
+- Solution URL: [FrontEnd Mentor: My Solution](https://github.com/azenetesc/qr-code-component)
+- Live Site URL: [GitHub Page: QR Card Component](https://azenetesc.github.io/qr-code-component/)
 
 ## My process
 
