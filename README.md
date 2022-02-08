@@ -11,16 +11,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-<h3>Desktop</h3>
-<img src="screenshot/desktop-design.png" width="45%" height="60%"/>
-<h3>Mobile</h3>
-<img src="screenshot/mobile-design.png" width="*40%" height="50%"/>
+<div align="center">
+  <h3>My desktop solution & My mobile solution</h3><br>
+<img src="screenshot/desktop-design.png" width="45%" height="60%"/> <img src="screenshot/mobile-design.png" width="20%" height="20%" align="top"/>
+</div>
 
 ### Links
 
